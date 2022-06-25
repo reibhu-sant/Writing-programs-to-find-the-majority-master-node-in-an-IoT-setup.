@@ -1,0 +1,10 @@
+Recurrence Relation of the written code is 
+T(n)= 2T(n/2) + O(nlogn) 
+
+using Master Theorem.
+
+As Merge Sort Algorithm was used, the Time Complexity is 
+
+Time Complexity = O(nlogn)
+
+for best, worst and average case scenario.
